@@ -1,0 +1,10 @@
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\bin\Debug\BUS_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\bin\Debug\BUS_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\obj\Debug\BUS_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\obj\Debug\BUS_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\bin\Debug\DAL_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\bin\Debug\DTO_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\bin\Debug\DAL_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\bin\Debug\DTO_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\obj\Debug\BUS_NhaSach.csprojAssemblyReference.cache
+C:\Users\theph\Desktop\Solution2\BUS_NhaSach\obj\Debug\BUS_NhaSach.csproj.CopyComplete

@@ -1,0 +1,4 @@
+C:\Users\theph\Desktop\Solution2\DTO_NhaSach\bin\Debug\DTO_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\DTO_NhaSach\bin\Debug\DTO_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\DTO_NhaSach\obj\Debug\DTO_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\DTO_NhaSach\obj\Debug\DTO_NhaSach.pdb

@@ -1,0 +1,8 @@
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\bin\Debug\DAL_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\bin\Debug\DAL_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\obj\Debug\DAL_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\obj\Debug\DAL_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\bin\Debug\DTO_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\bin\Debug\DTO_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\obj\Debug\DAL_NhaSach.csproj.CopyComplete
+C:\Users\theph\Desktop\Solution2\DAL_NhaSach\obj\Debug\DAL_NhaSach.csprojAssemblyReference.cache

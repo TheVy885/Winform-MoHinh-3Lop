@@ -1,0 +1,10 @@
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\bin\Debug\GUI_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\bin\Debug\GUI_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\obj\Debug\GUI_NhaSach.csprojAssemblyReference.cache
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\obj\Debug\GUI_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\obj\Debug\GUI_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\bin\Debug\BUS_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\bin\Debug\DTO_NhaSach.dll
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\bin\Debug\BUS_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\bin\Debug\DTO_NhaSach.pdb
+C:\Users\theph\Desktop\Solution2\GUI_NhaSach\obj\Debug\GUI_NhaSach.csproj.CopyComplete
